@@ -1,13 +1,4 @@
 #If you have worked on relevant projects talk about them here
 
-- name: Project 1
-  description: A few sentences describing your project.
-
-- name: Project 2
-  description: A few sentences describing your project.
-
-- name: Project 3
-  description: A few sentences describing your project.
-
-- name: Project 4
-  description: A few sentences describing your project.
+- name: Real Estate Price Simulator
+  description: A d3.js project that allowed useres to select their county from an interactive U.S. map. Then the user could input several future variables and see how that would affect real estate prices one year in the future. Leveraged python flask for api calls to get relevant data and for regression functions to spit out future estimates.

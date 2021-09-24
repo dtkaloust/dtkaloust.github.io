@@ -1,36 +1,23 @@
-header: Say something about what you're good at
+header: Always ready to learn.
 
-subheader: Give some more context
+subheader: Eager to learn any new technologies required for a project's success.
 
 skill_list:
-  - name: Skill 1
-    description: A quick sentence or two describing your skill
+  - name: Dilligent
+    description: Puts in the time to get a deep understanding of what is required for a project making sure it gets done right the first time.
 
-  - name: Skill 2
-    description: A quick sentence or two describing your skill
+  - name: Approachable
+    description: Communicates clearly with very fast response time.
 
-  - name: Skill 3
-    description: A quick sentence or two describing your skill
+  - name: Quick Learner
+    description: Quickly become familiar with new technologies required for a project.
 
 #If you have certifications, talk about them here
-certifications:
-  - name: Certification 1
-    topics:
-      - Topic 1A
-      - Topic 1B
-      - Topic 1C
-      - Topic 1D
+#certifications:
+#  - name: Certification 1
+#    topics:
+#      - Topic 1A
+#      - Topic 1B
+#      - Topic 1C
+#      - Topic 1D
 
-  - name: Certification 2
-    topics:
-      - Topic 2A
-      - Topic 2B
-      - Topic 2C
-      - Topic 2D
-
-  - name: Certification 3
-    topics:
-      - Topic 3A
-      - Topic 3B
-      - Topic 3C
-      - Topic 3D
